@@ -229,6 +229,10 @@ ro.surface_flinger.max_virtual_display_dimension=4096
 # QMI
 persist.data.qmi.adb_logmask=0
 
+# SoC
+ro.soc.manufacturer=Qualcomm
+ro.soc.model=MSM8953
+
 # Time Services
 persist.timed.enable=true
 
