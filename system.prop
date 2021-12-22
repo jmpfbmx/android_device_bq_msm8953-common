@@ -142,6 +142,7 @@ media.msm8956hw=0
 mm.enable.smoothstreaming=true
 mmp.enable.3g2=true
 media.aac_51_output_enabled=true
+debug.media.transcoding.codec_max_operating_rate=120
 av.debug.disable.pers.cache=1
 vendor.audio.hw.aac.encoder=true
 vendor.mm.enable.qcom_parser=262029
